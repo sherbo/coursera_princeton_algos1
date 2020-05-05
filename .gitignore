@@ -27,7 +27,7 @@ hs_err_pid*
 
 # Jet Brains IDE #
 .idea
-coursera_princeton_algos1.iml
+*.iml
 
 # Modified files cruft #
 *~
