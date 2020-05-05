@@ -27,6 +27,7 @@ hs_err_pid*
 
 # Jet Brains IDE #
 .idea
+.iml
 
 # Modified files cruft #
 *~
